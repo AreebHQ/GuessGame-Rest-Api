@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="790557aa-2dc4-41d7-aaf6-410cb16d8f6d" name="Changes" comment="Final V.2 - Added sort by roundtime" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27TfBkvJ5PoNiq767xSYy2eXsAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Areeb\Downloads\RestGuessGame\src\test\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.GuessApi.dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.GuessApi.App" />
+      <module name="RestGuessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GuessApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameDaoImplTest.testAddGetAllGames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestGuessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GuessApi.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.GuessApi.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.GuessApi.dao.GameDaoImplTest" />
+      <option name="METHOD_NAME" value="testAddGetAllGames" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameDaoImplTest.testAddGetAllRounds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestGuessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GuessApi.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.GuessApi.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.GuessApi.dao.GameDaoImplTest" />
+      <option name="METHOD_NAME" value="testAddGetAllRounds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameDaoImplTest.testAddGetGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestGuessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GuessApi.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.GuessApi.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.GuessApi.dao.GameDaoImplTest" />
+      <option name="METHOD_NAME" value="testAddGetGame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameDaoImplTest.testAddGetRound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestGuessGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.GuessApi.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.GuessApi.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.GuessApi.dao.GameDaoImplTest" />
+      <option name="METHOD_NAME" value="testAddGetRound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.GameDaoImplTest.testAddGetAllRounds" />
+        <item itemvalue="JUnit.GameDaoImplTest.testAddGetRound" />
+        <item itemvalue="JUnit.GameDaoImplTest.testAddGetAllGames" />
+        <item itemvalue="JUnit.GameDaoImplTest.testAddGetGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790557aa-2dc4-41d7-aaf6-410cb16d8f6d" name="Changes" comment="" />
+      <created>1649348864568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649348864568</updated>
+    </task>
+    <task id="LOCAL-00001" summary="set begin v.1">
+      <created>1649485729482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649485729482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set till GameById v.1">
+      <created>1649546175956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649546175956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="preTest V.1">
+      <created>1649553181576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649553181576</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test V.1">
+      <created>1649563140191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649563140191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final V.1">
+      <created>1649642116558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649642116558</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final V.2 - Added sort by roundtime">
+      <created>1649696540095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649696540095</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set begin v.1" />
+    <MESSAGE value="set till GameById v.1" />
+    <MESSAGE value="preTest V.1" />
+    <MESSAGE value="Test V.1" />
+    <MESSAGE value="Final V.1" />
+    <MESSAGE value="Final V.2 - Added sort by roundtime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final V.2 - Added sort by roundtime" />
+  </component>
+</project>
